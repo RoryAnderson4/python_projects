@@ -13,7 +13,7 @@ print("-------------------------------------")
 print(f"Total Profit Today: £{profit}")
 
 if profit > 0:
-    print("suficaint profit made! sick one gadj")
+    print("suficaint profit made!")
 elif profit == 0:
     print("You broke even today.")
 else:
